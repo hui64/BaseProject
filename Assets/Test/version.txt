@@ -1,0 +1,4 @@
+E:\BaseProject\Assets\Test\picture.jpg,7d3368c54536d52ff7cf15e6abca75ff
+E:\BaseProject\Assets\Test\picture.jpg.meta,eb607e5b51f7504f7b116d4ffeda3513
+E:\BaseProject\Assets\Test\version.txt,d1e83fcedd736a3126c95b8804392e05
+E:\BaseProject\Assets\Test\version.txt.meta,8941956fafa8f3a9f0797dfa289529e2
